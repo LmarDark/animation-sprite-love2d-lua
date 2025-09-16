@@ -1,6 +1,6 @@
 # Knight Journey - Sprites Demo
 
-Este repositório faz parte de uma série de exemplos para aprender programação de jogos. Aqui, o foco é a manipulação de sprites usando o framework Love2D (LÖVE).
+Este repositório é uma forma de me desafiar para aprender programação de jogos. Aqui, o foco é a manipulação de sprites usando o framework Love2D (LÖVE).
 
 ## Sobre o Projeto
 
